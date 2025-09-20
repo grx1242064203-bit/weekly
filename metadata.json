@@ -1,0 +1,5 @@
+{
+  "name": "Product Net Worth Analysis Tool",
+  "description": "An interactive web application to upload, analyze, and visualize product and strategy net worth data. Features include metrics tables, performance charts, and PDF report generation.",
+  "requestFramePermissions": []
+}
